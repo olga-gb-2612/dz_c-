@@ -9,3 +9,4 @@ if (B * B == A)
 else
  Console.WriteLine("no");
 
+ 
