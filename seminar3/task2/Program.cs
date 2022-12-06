@@ -1,6 +1,11 @@
 ﻿Console.Clear();
 Console.Write("Введите номер четверти:");
 int x = Convert.ToInt32(Console.ReadLine());
+while ( x < 1 || x > 4)
+{ 
+  Console.Write("Вы ошиблись!\nВведите номер четверти: ");
+    x = Convert.ToInt32(Console.ReadLine());
+}
 if (x == 1 || x == 2)
   Console.WriteLine("y > 0");
 else
