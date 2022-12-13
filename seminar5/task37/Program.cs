@@ -6,11 +6,12 @@ void inputArray(int[] array)
      array[i] = new Random().Next(1,11); 
 }
 
-void ReleaseArray(int[] array)
+int[] ReleaseArray(int[] array)
 {
-
+int[] result = new int[array.Length/2+array.Length%2];
 for (int i = 0; i <array.Length/2 + array.Length%2; i++)
-Console.Write($"{array[i]*array[array.Length -1 -i]} ");
+ result[i]=array[i]*array[array.Length -1-i];
+ return result;
 }
 
 
@@ -20,4 +21,4 @@ int n = Convert.ToInt32(Console.ReadLine());
 int[] array = new int[n];
 inputArray(array);
 Console.WriteLine($"[{string.Join(", ", array)}]");
-ReleaseArray(array);
+Console.WriteLine($"[{string.Join(", ", ReleaseArray(array))}]");
