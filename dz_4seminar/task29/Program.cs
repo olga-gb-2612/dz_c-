@@ -1,4 +1,7 @@
-﻿Console.Clear();
+﻿// спрашивает у польз-ля кол-во эл-ов и сами эл-ты.
+// после записи эл-ов массива вывести на экран
+
+Console.Clear();
 Console.Write("Введите кол-во элементов массива:");
 int a = Convert.ToInt32(Console.ReadLine());
 int[] array = new int[a];

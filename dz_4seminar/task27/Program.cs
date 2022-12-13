@@ -1,4 +1,6 @@
-﻿Console.Clear();
+﻿// принимает на вход число и выдает сумму цифр в числе
+
+Console.Clear();
 Console.Write("Введите число, где цифры записываются через пробел:");
 string[] a = Console.ReadLine().Split(' ');
 int sum =0;

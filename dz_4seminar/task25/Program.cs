@@ -1,4 +1,7 @@
-﻿Console.Clear();
+﻿// Написать цикл, к-ый принимаетна вод числа а и в и возводит 
+// число а в натуральную степень б
+
+Console.Clear();
 Console.Write("Введите число:");
 int a = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите степень:");
