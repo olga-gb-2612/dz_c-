@@ -1,0 +1,15 @@
+C:\Users\Vadik\Desktop\seminar\seminar6\stroka\bin\Debug\net6.0\stroka.exe
+C:\Users\Vadik\Desktop\seminar\seminar6\stroka\bin\Debug\net6.0\stroka.deps.json
+C:\Users\Vadik\Desktop\seminar\seminar6\stroka\bin\Debug\net6.0\stroka.runtimeconfig.json
+C:\Users\Vadik\Desktop\seminar\seminar6\stroka\bin\Debug\net6.0\stroka.dll
+C:\Users\Vadik\Desktop\seminar\seminar6\stroka\bin\Debug\net6.0\stroka.pdb
+C:\Users\Vadik\Desktop\seminar\seminar6\stroka\obj\Debug\net6.0\stroka.csproj.AssemblyReference.cache
+C:\Users\Vadik\Desktop\seminar\seminar6\stroka\obj\Debug\net6.0\stroka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vadik\Desktop\seminar\seminar6\stroka\obj\Debug\net6.0\stroka.AssemblyInfoInputs.cache
+C:\Users\Vadik\Desktop\seminar\seminar6\stroka\obj\Debug\net6.0\stroka.AssemblyInfo.cs
+C:\Users\Vadik\Desktop\seminar\seminar6\stroka\obj\Debug\net6.0\stroka.csproj.CoreCompileInputs.cache
+C:\Users\Vadik\Desktop\seminar\seminar6\stroka\obj\Debug\net6.0\stroka.dll
+C:\Users\Vadik\Desktop\seminar\seminar6\stroka\obj\Debug\net6.0\refint\stroka.dll
+C:\Users\Vadik\Desktop\seminar\seminar6\stroka\obj\Debug\net6.0\stroka.pdb
+C:\Users\Vadik\Desktop\seminar\seminar6\stroka\obj\Debug\net6.0\stroka.genruntimeconfig.cache
+C:\Users\Vadik\Desktop\seminar\seminar6\stroka\obj\Debug\net6.0\ref\stroka.dll
