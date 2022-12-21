@@ -6,7 +6,7 @@ void InputMatrix(double[,] matrix)
     {
         for (int j = 0; j < matrix.GetLength(1); j++)
         {
-            matrix[i, j] = Math.Round(new Random().NextDouble()*(10+10)-10, 2); // [-10, 10]
+            matrix[i, j] = Math.Round(new Random().NextDouble() * (10 + 10) - 10, 2); // [-10, 10]
             Console.Write($"{matrix[i, j]} \t");
         }
         Console.WriteLine();
